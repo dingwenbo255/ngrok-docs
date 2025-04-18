@@ -1,22 +1,19 @@
 <!-- Code generated for API Clients. DO NOT EDIT. -->
-
 #### Example Response
-
 ```json
 {
-	"endpoint": {
-		"id": "ep_2uqkgyjySpY1BveZpw0lXbB5iIE",
-		"uri": "https://api.ngrok.com/endpoints/ep_2uqkgyjySpY1BveZpw0lXbB5iIE"
-	},
-	"forwards_to": "http://localhost:80",
-	"id": "tn_2uqkgyjySpY1BveZpw0lXbB5iIE",
-	"proto": "https",
-	"public_url": "https://1cb46d199be1.ngrok.paid",
-	"region": "us",
-	"started_at": "2025-03-26T10:06:46Z",
-	"tunnel_session": {
-		"id": "ts_2uqkgwA0KwaTWgL3YWtm4lLtXLE",
-		"uri": "https://api.ngrok.com/tunnel_sessions/ts_2uqkgwA0KwaTWgL3YWtm4lLtXLE"
-	}
+  "endpoint": {
+    "id": "ep_2vtiV8ApE6dUlHaeKdXIyuMUhBP",
+    "uri": "https://api.ngrok.com/endpoints/ep_2vtiV8ApE6dUlHaeKdXIyuMUhBP"
+  },
+  "forwards_to": "http://localhost:80",
+  "id": "tn_2vtiV8ApE6dUlHaeKdXIyuMUhBP",
+  "proto": "https",
+  "public_url": "https://a74a013570eb.ngrok.paid",
+  "region": "us",
+  "started_at": "2025-04-18T10:06:31Z",
+  "tunnel_session": {
+    "id": "ts_2vtiV4My0Basu9IIC0wFqx7buzH",
+    "uri": "https://api.ngrok.com/tunnel_sessions/ts_2vtiV4My0Basu9IIC0wFqx7buzH"
+  }
 }
-```
